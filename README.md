@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&cursor=%E2%96%8F&lines=%5Bbestuzheff%40arch%20~%5D%24%20whoami)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&cursor=%E2%96%8F&lines=%5Bbestuzheff%40ubuntu%20~%5D%24%20whoami)
 
 Меня зовут **Бестужев Сергей**
 
