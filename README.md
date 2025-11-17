@@ -23,7 +23,7 @@
     <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/arch" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/ubuntu" width="64px" />
 <div>
 
 <br>
