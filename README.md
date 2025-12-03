@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&cursor=%E2%96%8F&lines=%5Bbestuzheff%40ubuntu%20~%5D%24%20whoami)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&cursor=%E2%96%8F&lines=%5Bbestuzheff%40debian%20~%5D%24%20whoami)
 
 Меня зовут **Бестужев Сергей**
 
@@ -23,7 +23,7 @@
     <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/ubuntu" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/debian" width="64px" />
 <div>
 
 <hr>
