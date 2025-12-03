@@ -26,7 +26,6 @@
     <img src="https://iconic-api.onrender.com/dark/ubuntu" width="64px" />
 <div>
 
-<br>
 <hr>
 
 ![Сделано с любовью!](https://img.shields.io/badge/Сделано%20с-любовью-red)
