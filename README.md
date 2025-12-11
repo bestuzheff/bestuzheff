@@ -12,11 +12,10 @@
 
 ### 🛠️ Использую
 <div style="display: flex; gap: 2px; align-items: center;">
-    <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/markdown" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/neovim" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/obsidian" width="64px" />
