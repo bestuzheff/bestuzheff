@@ -13,6 +13,7 @@
 ### 🛠️ Использую
 <div style="display: flex; gap: 2px; align-items: center;">
     <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+    <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
@@ -22,7 +23,6 @@
     <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
     <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
-    <img src="https://iconic-api.onrender.com/dark/debian" width="64px" />
 <div>
 
 <hr>
